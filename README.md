@@ -3,7 +3,7 @@
 
 
 ## Overview
-Built a typescript AI based project for 3  AI data pipelines that i applicable to my current working Environment.
+Built a typescript AI based project for 3  AI data pipelines that is applicable to my current working Environment.
 
 
 ## Deployment
