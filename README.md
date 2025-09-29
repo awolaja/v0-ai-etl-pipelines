@@ -1,11 +1,9 @@
 # AI ETL pipelines
 
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/awolajas-projects/v0-ai-etl-pipelines)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/FIXnvr80DQv)
 
 ## Overview
-
+Built a typescript AI based project for 3  AI data pipelines that i applicable to my current working Environment.
 
 
 ## Deployment
